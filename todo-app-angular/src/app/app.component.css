@@ -1,0 +1,12 @@
+.main-container {
+    margin-left: 20%;
+    background-color: #dadada;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    width: 60%;
+    height: 100vh;
+}
+.header {
+    color: #eca74b;
+}
