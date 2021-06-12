@@ -1,14 +1,14 @@
 # See http://help.github.com/ignore-files/ for more about ignoring files.
 
 # compiled output
-/dist
-/tmp
-/out-tsc
+todo-angular-app/dist
+todo-angular-app/tmp
+todo-angular-app/out-tsc
 # Only exists if Bazel was run
-/bazel-out
+todo-angular-app/bazel-out
 
 # dependencies
-/node_modules
+todo-angular-app/node_modules
 
 # profiling files
 chrome-profiler-events*.json
